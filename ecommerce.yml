@@ -1,5 +1,5 @@
 token:
   expiration_time: 1234567890
-  secret: userTokenSECRETCREATEBYtlrruaddbsuserTokenSECRETCREATEBYtlrrudddbsuserTokenSECRETCREATEBYtlreruddbsuserTokenSECRETCREATEBYtlrrudddbsMODIFY_OK
+  secret: userTokenSECRETCREATEBYtlrruaddbsuserTokenSECRETCREATEBYtlrrudddbsuserTokenSECRETCREATEBYtlreruddbsuserTokenSECRETCREATEBYtlrrudddbsMODIFY_TEST
 gateway:
   ip: 192.168.0.114
